@@ -4,13 +4,19 @@
 
 ### Exploring the Dataset:
 
+##### Label: 0
+
 ![original](https://user-images.githubusercontent.com/34116562/66628171-a2bbce80-ec1b-11e9-9daf-4ebafe850f86.png)
 
 #### Gray
 
+##### Label: 1
+
 ![gray](https://user-images.githubusercontent.com/34116562/66628177-a51e2880-ec1b-11e9-89f0-2259e0224cee.png)
 
 #### HSV
+
+##### Label: 2
 
 ![hsv](https://user-images.githubusercontent.com/34116562/66628180-a64f5580-ec1b-11e9-8953-54dee43b4012.png)
 
