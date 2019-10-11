@@ -13,3 +13,10 @@
 
 #### gnb = GaussianNB()
 #### gnb.fit(X,Y)
+
+### Score is calculated for both the models using score() method and it shows that Multinomial Naive Bayes performs well as compared to Gaussian Naive Bayes because Multinomial Naive Bayes assumes that the features are discrete whereas Gaussian Naive Bayes assumes them to be continuous. Here, the features are discrete.
+
+#### mnb.score(X,Y)
+#### gnb.score(X,Y)
+
+### Result: Multinomial Naive Bayes gives a better score of around 90.5%.
